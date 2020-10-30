@@ -1,5 +1,5 @@
 var config = {
-  "token": "123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11",
+  "token": "1246728564:AAFSe8J-5NX3Oud2lAuqd14rDkxibmgZm7Q",
   "update_type": "long-polling", // or "webhook"
   "webhook": "https://www.example.com/<token>",
   //"proxy": "http://127.0.0.1:8118",
